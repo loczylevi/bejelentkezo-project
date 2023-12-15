@@ -75,7 +75,7 @@ elif opcio == '***Nincs***':
                 #szar.write(row)
 
 
-szar.link_button("Go to gallery", "cuccmokos.py")
+szar.link_button("Go to gallery", "pages/cuccmokos.py")
 
 szar.write("sfsdfsdfs")
 
