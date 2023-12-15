@@ -77,4 +77,6 @@ elif opcio == '***Nincs***':
 
 szar.link_button("Go to gallery", "cuccmokos.py")
 
+szar.write("sfsdfsdfs")
+
 
