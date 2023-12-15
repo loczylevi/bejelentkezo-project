@@ -75,4 +75,6 @@ elif opcio == '***Nincs***':
                 #szar.write(row)
 
 
+szar.link_button("Go to gallery", "cuccmokos.py")
+
 
